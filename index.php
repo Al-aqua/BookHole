@@ -9,8 +9,12 @@
     <script src='js/index.js'></script>
 </head>
 <body>
-    <?php
-    echo 'Hello World!';
-    ?>
+    <header>
+    </header>
+    <div id="continuer">
+        <div id="hotSection">
+
+        </div>
+    </div>
 </body>
 </html>
